@@ -1,0 +1,8 @@
+name = "lvpm_s8_selftest"
+github = "ThatsTheEnd/Serializer"
+
+[[version]]
+version = "0.1.0"
+url = "https://github.com/ThatsTheEnd/Serializer/releases/download/lvpm-s8-selftest-0.1.0/lvpm_s8_selftest-0.1.0.lvpkg"
+sha256 = "dc2cea1796565de5ff8fa82e50f590ad02c64d0a276b7107116068d3fb8d7812"
+labview = ">=16.0"
